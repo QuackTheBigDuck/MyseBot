@@ -1,10 +1,8 @@
 # MyseBot
-Made this at 16 with my boy wyz back in high school learned a lot and can see the mistakes we made looking back now
-# MyseBot
 
 An experimental crypto trading bot and backtester, written in Python. It combines machine learning models, a Q-learning agent, portfolio optimization, and Discord alerts.
 
-> **Archived early project.** I wrote this when I was 16 and I'm posting it as-is to show where I started. It is not a profitable strategy and should not be used with real money. See [Known issues](#known-issues) for what I'd do differently now.
+> **Archived early project.** I wrote this when I was 16 with my boy wyz back in high school and I'm posting it as-is to show where I started. It is not a profitable strategy and should not be used with real money. See [Known issues](#known-issues) for what I'd do differently now.
 
 (Despite the name, it doesn't use the Zipline library.)
 
