@@ -1,6 +1,6 @@
 # MyseBot
 Made this at 16 with my boy wyz back in high school learned a lot and can see the mistakes we made looking back now
-# ZIPLINEBOT
+# MyseBot
 
 An experimental crypto trading bot and backtester, written in Python. It combines machine learning models, a Q-learning agent, portfolio optimization, and Discord alerts.
 
